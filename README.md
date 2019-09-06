@@ -1,9 +1,9 @@
-# ivory-teste--setembro-2019
+# ivory-teste-estagio-setembro-2019
 
 
 ## Questão 01
 
-Codigo melhorado:
+Codigo melhorado de acordo com as recomendações do detetive:
 
 ```
 class Program
