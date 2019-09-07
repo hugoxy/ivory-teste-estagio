@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questão 01 - IVORYIT", "Questão 01 - IVORYIT\Questão 01 - IVORYIT.csproj", "{B6772A7B-F750-434A-B71A-860E7A306794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6772A7B-F750-434A-B71A-860E7A306794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6772A7B-F750-434A-B71A-860E7A306794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6772A7B-F750-434A-B71A-860E7A306794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6772A7B-F750-434A-B71A-860E7A306794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BB4D63-7793-4227-B8B2-F206F12F1CC2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\bin\Debug\Questão 01 - IVORYIT.exe.config
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\bin\Debug\Questão 01 - IVORYIT.exe
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\bin\Debug\Questão 01 - IVORYIT.pdb
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\obj\Debug\Questão 01 - IVORYIT.csprojAssemblyReference.cache
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\obj\Debug\Questão 01 - IVORYIT.csproj.CoreCompileInputs.cache
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\obj\Debug\Questão 01 - IVORYIT.exe
+C:\Users\f84643c\Desktop\Questão 01 - IVORYIT\Questão 01 - IVORYIT\obj\Debug\Questão 01 - IVORYIT.pdb

@@ -1,0 +1,14 @@
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.exe.config
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.exe
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.pdb
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.csprojAssemblyReference.cache
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.csproj.CoreCompileInputs.cache
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.exe
+C:\Users\f84643c\Desktop\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.pdb
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.exe.config
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.exe
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\bin\Debug\Questão 02 - IVORYIT.pdb
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.csprojAssemblyReference.cache
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.exe
+D:\Meus Documentos\Área de Trabalho\IVORIT\Questão 02 - IVORYIT\Questão 02 - IVORYIT\obj\Debug\Questão 02 - IVORYIT.pdb
