@@ -21,7 +21,7 @@ class Program
             Console.ReadKey();
 
         }
-
+        //Função calcular fatorial.
         static int Calcular(int numero)
         {
             var resultado = 0;
