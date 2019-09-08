@@ -18,10 +18,12 @@ class Program
             (Variáveis Locais Tipadas Implicitamente com "var" de acordo com instrução do detetive).
             
             var resultado = Calcular(numero); 
-            //Chama a função calcular fatorial passando a variavel "numero" como parametro e salvando o retorno em "resultado"                       (Variáveis Locais Tipadas Implicitamente com "var" de acordo com instrução do detetive).
+            //Chama a função calcular fatorial passando a variavel "numero" como parametro e salvando o retorno em "resultado"
+            (Variáveis Locais Tipadas Implicitamente com "var" de acordo com instrução do detetive).
 
             Console.WriteLine($"Resultado:{resultado}");
-            //Mostra o resultado na tela que no caso atual será "120". (Feita correção de acordo com as dicas do Detetive para melhor               leitura do código "Interpolação")
+            //Mostra o resultado na tela que no caso atual será "120". 
+            (Feita correção de acordo com as dicas do Detetive para melhor leitura do código "Interpolação")
             
             Console.ReadKey();
             //Aguarda pressionar uma tecla para continuar.
@@ -40,7 +42,7 @@ class Program
             else
             {
                 //Logica para função recursiva para cacular fatorial, no caso do numero cinco será feito "5*4*3*2*1=120". 
-                (Decrementação -- substituida dentro do parametro, devida a invabilidade de passagem de decrementos em parametros                        gerando stack over flow.)
+                (Decrementação -- substituida dentro do parametro, devida a invabilidade de passagem de decrementos em parametros gerando stack over flow.)
                 resultado = numero*Calcular(numero - 1);
                
                 return (resultado);
