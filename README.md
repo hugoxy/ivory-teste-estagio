@@ -16,11 +16,13 @@ class Program
             var numero = 5;
             //Define um valor para variavel a ser utilizada no fatorial.
             (Variáveis Locais Tipadas Implicitamente com "var" de acordo com instrução do detetive).
+            
             var resultado = Calcular(numero); 
             //Chama a função calcular fatorial passando a variavel "numero" como parametro e salvando o retorno em "resultado"                       (Variáveis Locais Tipadas Implicitamente com "var" de acordo com instrução do detetive).
 
             Console.WriteLine($"Resultado:{resultado}");
             //Mostra o resultado na tela que no caso atual será "120". (Feita correção de acordo com as dicas do Detetive para melhor               leitura do código "Interpolação")
+            
             Console.ReadKey();
             //Aguarda pressionar uma tecla para continuar.
 
@@ -42,7 +44,7 @@ class Program
                 resultado = numero*Calcular(numero - 1);
                
                 return (resultado);
-                //Retorno o resultado calculado pela função para a var resultando dentro da main.
+                //Retorna o resultado calculado pela função para a var "resultado" dentro da main.
             }
         }
     }
