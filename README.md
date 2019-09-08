@@ -52,7 +52,6 @@ class Program
             //Colunas.
             int c = 0;
             int e = 0;
-
             int aux = 1;
             int aux2 = 0;
 
@@ -65,8 +64,6 @@ class Program
 
             //Cria matriz.
             string[,] matriz = new string[l, c];
-
-
 
             //Preencher matriz.
             for (int i = 0; i < l; i++)
